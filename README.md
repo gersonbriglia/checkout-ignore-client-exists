@@ -1,5 +1,5 @@
 # Checkout Ignore Client Exists (WooCommerce)
-# Author: Gerson Farias Briglia <briglia@gmail.com>
+Author: Gerson Farias Briglia <briglia@gmail.com>
 
 Prevents errors when a customer uses an already registered email during WooCommerce checkout and automatically links the order to the existing user.
 
